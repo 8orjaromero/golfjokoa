@@ -13,7 +13,7 @@ var kont = 0 //erreboteak kontatzeko
 
 
 function lurra(){
-c.fillStyle = "blue";
+c.fillStyle = "green";
 c.fillRect(0, 500, 1400, 130);
 }
 
