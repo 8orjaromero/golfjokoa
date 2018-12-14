@@ -1,0 +1,10 @@
+canvas {
+	border: 1px solid black;
+	background-image: url("mapa.png");
+}
+
+#golflaria {
+	position: relative;
+	bottom:-3000px;
+	right: 575px;
+	}
