@@ -1,0 +1,10 @@
+canvas {
+	border: 1px solid black;
+	background-color:lightblue;
+}
+
+#golflaria {
+	position: relative;
+	bottom:-3000px;
+	right: 575px;
+	}
